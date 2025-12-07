@@ -1,9 +1,9 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'root');
+define('DB_SERVER', 'mysql-10dead2a-crudd.g.aivencloud.com');
+define('DB_USERNAME', 'avnadmin');
+define('DB_PASSWORD', '$2y$10$hPvLTgiV86nYkTbsg4yV/ep1E6VlfspZkf6jY9i4ybiEFDGsO2Tq.');
 define('DB_NAME', 'cruddapp');
  
 /* Attempt to connect to MySQL database */
